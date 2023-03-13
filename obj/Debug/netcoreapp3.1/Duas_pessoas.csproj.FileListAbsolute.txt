@@ -1,0 +1,13 @@
+C:\dev\Duas_pessoas\bin\Debug\netcoreapp3.1\Duas_pessoas.exe
+C:\dev\Duas_pessoas\bin\Debug\netcoreapp3.1\Duas_pessoas.deps.json
+C:\dev\Duas_pessoas\bin\Debug\netcoreapp3.1\Duas_pessoas.runtimeconfig.json
+C:\dev\Duas_pessoas\bin\Debug\netcoreapp3.1\Duas_pessoas.runtimeconfig.dev.json
+C:\dev\Duas_pessoas\bin\Debug\netcoreapp3.1\Duas_pessoas.dll
+C:\dev\Duas_pessoas\bin\Debug\netcoreapp3.1\Duas_pessoas.pdb
+C:\dev\Duas_pessoas\obj\Debug\netcoreapp3.1\Duas_pessoas.csprojAssemblyReference.cache
+C:\dev\Duas_pessoas\obj\Debug\netcoreapp3.1\Duas_pessoas.AssemblyInfoInputs.cache
+C:\dev\Duas_pessoas\obj\Debug\netcoreapp3.1\Duas_pessoas.AssemblyInfo.cs
+C:\dev\Duas_pessoas\obj\Debug\netcoreapp3.1\Duas_pessoas.csproj.CoreCompileInputs.cache
+C:\dev\Duas_pessoas\obj\Debug\netcoreapp3.1\Duas_pessoas.dll
+C:\dev\Duas_pessoas\obj\Debug\netcoreapp3.1\Duas_pessoas.pdb
+C:\dev\Duas_pessoas\obj\Debug\netcoreapp3.1\Duas_pessoas.genruntimeconfig.cache
